@@ -67,7 +67,7 @@
 
 
             #define GITHUB_USER_NAME        "Simplelink"
-            #define GITHUB_USER_TOKEN_B64   "<REDACTED_B64>" // <REDACTED_TOKEN>
+            #define GITHUB_USER_TOKEN_B64   "base64_token"
             #define GITHUB_USER_REPO        "CC3X20"
             #define GITHUB_USER_PATH        "SEC_OTA_CC3235SF"
         #else
